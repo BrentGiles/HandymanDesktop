@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![Creative Preview](https://camo.githubusercontent.com/208b18c3ae429c0655b9fd86444b29b0ebc0213b/68747470733a2f2f7374617274626f6f7473747261702e636f6d2f6173736574732f696d672f73637265656e73686f74732f7468656d65732f63726561746976652e706e67)](https://camo.githubusercontent.com/208b18c3ae429c0655b9fd86444b29b0ebc0213b/68747470733a2f2f7374617274626f6f7473747261702e636f6d2f6173736574732f696d672f73637265656e73686f74732f7468656d65732f63726561746976652e706e67)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+**[View Live Preview](https://startbootstrap.com/previews/creative/)**
 
 ## Status
 
